@@ -232,8 +232,7 @@ transition: color 250ms var(--cubic-brauser);
   color: #ffffff;
 
 transition: background-color 250ms var(--cubic-brauser),
-box-shadow 250ms var(--cubic-brauser),
-border-radius 250ms var(--cubic-brauser);
+box-shadow 250ms var(--cubic-brauser);
 
 }
 
@@ -481,7 +480,6 @@ border-radius 250ms var(--cubic-brauser);
   align-items: center;
 
 transition: border 250ms var(--cubic-brauser),
-border-radius 250ms var(--cubic-brauser),
 color 250ms var(--cubic-brauser);
 
 }
